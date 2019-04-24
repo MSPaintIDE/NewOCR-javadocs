@@ -1,0 +1,13 @@
+module:NewOCR
+com.uddernetworks.newocr
+com.uddernetworks.newocr.character
+com.uddernetworks.newocr.configuration
+com.uddernetworks.newocr.database
+com.uddernetworks.newocr.detection
+com.uddernetworks.newocr.recognition
+com.uddernetworks.newocr.recognition.mergence
+com.uddernetworks.newocr.recognition.mergence.rules
+com.uddernetworks.newocr.recognition.similarity
+com.uddernetworks.newocr.recognition.similarity.rules
+com.uddernetworks.newocr.train
+com.uddernetworks.newocr.utils
