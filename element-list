@@ -1,5 +1,4 @@
 module:NewOCR
-com.uddernetworks.newocr
 com.uddernetworks.newocr.character
 com.uddernetworks.newocr.configuration
 com.uddernetworks.newocr.database
